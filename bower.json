@@ -1,0 +1,30 @@
+{
+  "name": "angular-slick-carousel",
+  "main": "dist/angular-slick-carousel.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jessegavin/angular-slick-carousel",
+  "authors": [
+    "Jesse Gavin <jesse.gavin@gmail.com>"
+  ],
+  "description": "An AngularJS directive for the last carousel you'll ever need",
+  "keywords": [
+    "angular",
+    "directive",
+    "responsive",
+    "carousel",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html"
+  ],
+  "dependencies": {
+    "jquery": "~1.7",
+    "slick-carousel": "~1.3"
+  }
+}
